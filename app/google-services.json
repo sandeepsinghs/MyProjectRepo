@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "938788317026",
+    "firebase_url": "https://myfirebasedemo-5decc.firebaseio.com",
+    "project_id": "myfirebasedemo-5decc",
+    "storage_bucket": "myfirebasedemo-5decc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938788317026:android:7b9491f4faa6762b",
+        "android_client_info": {
+          "package_name": "com.garbage.iot.iotbasedgarbagemonitoringsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938788317026-aom8d04hb1eslg1bf8i5evqavrq69rcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALRs3UktkteGYOU_nZbMlFJ1MZJPiv6fs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938788317026:android:09c12ea4b593c5d2",
+        "android_client_info": {
+          "package_name": "android.com.locationbaseencryption"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938788317026-aom8d04hb1eslg1bf8i5evqavrq69rcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALRs3UktkteGYOU_nZbMlFJ1MZJPiv6fs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
